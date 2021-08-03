@@ -1,7 +1,7 @@
 Hi, my name is **Charles Randicha Gunawan Santoso**
 
-- 🏢 Currently working at PT Bukalapak as Front End Engineer
-- 🌱 Learning about Javascript ( currently working with Vue, now learning React) and Golang
+- 🏢 Currently working at Telkom Indonesia as Front End Engineer
+- 🌱 Learning about Javascript ( currently working with React) and Golang
 - 📫 You can contact me through [email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=charles.randicha@gmail.com&tf=1) or [my Linkedin](https://www.linkedin.com/in/charlesrandicha/)
 
 <!--
