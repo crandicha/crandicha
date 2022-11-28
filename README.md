@@ -1,6 +1,6 @@
 Hi, my name is **Charles Randicha Gunawan Santoso**
 
-- 🏢 Currently working at Telkom Indonesia as Front End Engineer
+- 🏢 Currently working at GovTech Edu as Front End Engineer
 - 📫 You can contact me through [email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=charles.randicha@gmail.com&tf=1) or [my Linkedin](https://www.linkedin.com/in/charlesrandicha/)
 
 <!--
