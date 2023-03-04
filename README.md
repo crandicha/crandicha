@@ -9,7 +9,7 @@ A good logic thinker and problem solver, loves to learn new things tech related 
 Currently available for new opportunities
 
 - 🏢 Currently working at GovTech Edu as Front End Engineer
-- 📫 You can contact me through [email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=charles.randicha@gmail.com&tf=1) or [my Linkedin](https://www.linkedin.com/in/charlesrandicha/)
+- 📫 You can contact me through [email](https://mail.google.com/mail/u/0/?view=cm&fs=1&to=charles.randicha@gmail.com&tf=1),[my Linkedin](https://www.linkedin.com/in/charlesrandicha/) or [my website](https://randicha.dev)
 
 <!--
 **crandicha/crandicha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
