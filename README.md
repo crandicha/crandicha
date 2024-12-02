@@ -1,6 +1,6 @@
 Hi, my name is **Charles Randicha Gunawan Santoso**
 
-I am a self-teach tech enthusiast with 7+ years of experience as frontend software engineer and passion in building tech solutions for better humanity, backed by knowledge and experience building several web applications for multiple startups unicorn & public sector in Indonesia.
+I am a tech enthusiast with 7+ years of experience as frontend software engineer and passion in building tech solutions for better humanity, backed by knowledge and experience building several web applications for multiple startups unicorn & public sector in Indonesia.
 
 Experienced with wide array of frontend technologies from vanilla Javascript, CoffeeScript, Typescript to modern UI libraries like AngularJS, VueJs, Nuxt, React, Next, Svelte, Astro and many others. Also experience in Progressive Web Apps technology and collaborated on an in-house Component Library development,
 
